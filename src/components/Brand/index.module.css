@@ -1,0 +1,28 @@
+.line {
+    border-bottom: 1px solid #EEEEEE;
+    padding-top: 130px;
+}
+.lineTwo {
+    border-top: 1px solid #EEEEEE;
+    padding-bottom: 130px;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #555555;
+    font-size: 25px;
+    padding: 14px 0;
+    font-family: "Roboto", serif;
+}
+.icons h4 {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+.icons h1 {
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+}

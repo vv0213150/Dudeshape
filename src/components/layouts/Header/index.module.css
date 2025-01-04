@@ -1,0 +1,79 @@
+.container {
+    display: flex;
+    background-color: #F9F6F5;
+    border-radius: 20px;
+    font-family: "Roboto", serif;
+}
+.container img {
+    border-radius: 0 20px 20px 0;
+}
+
+.title {
+    padding: 40px 0 10px 20px;
+}
+.title h1 {
+    font-size: 56px;
+    line-height: 70px;
+    font-weight: 400;
+    width: 621px;
+    padding-bottom: 30px;
+}
+.title p {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 32px;
+    color: #555555;
+    padding-bottom: 30px;
+    width: 516px;
+}
+.title div  {
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+.title div input {
+    position: relative;
+    background: none;
+    border: none;
+    font-size: 14px;
+    background-color: #FFFFFF;
+    padding: 24px 200px 24px 16px;
+}
+.title input::placeholder {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 20px;
+    color: #999999;
+}
+.title div button {
+    position: absolute;
+    left: 417px;
+    background-color: #402F2C;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px 13px;
+    border: 1px solid #685A5275;
+
+}
+.title div button:hover {
+    color: #402F2C;
+    background-color: #FFFFFF;
+}
+.title button {
+    background: none;
+    border: none;
+    color: #FFFFFF;
+    background-color: #402F2C;
+    padding: 16px 32px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+    border: 1px solid #685A5275;
+}
+.title button:hover {
+    color: #402F2C;
+    background-color: #FFFFFF;
+}

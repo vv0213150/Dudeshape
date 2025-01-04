@@ -1,0 +1,28 @@
+.main {
+    display: flex;
+    align-items: center;
+    background-color: #FDF8F5;
+    border-radius: 20px;
+    padding: 54px 90px;
+    color: #222222;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 130px;
+}
+.main div h1 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 70px;
+    font-family: "Roboto", serif;
+}
+.main div p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #555555;
+}
+
+.line {
+    border-bottom: 3px solid #222222;
+    margin-bottom: 25px;
+}

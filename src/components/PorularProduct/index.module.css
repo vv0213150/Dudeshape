@@ -1,0 +1,78 @@
+.info {
+    font-family: "Roboto", serif;
+}
+.info  {
+    border: 1px solid #685A5230;
+}
+.info img {
+    margin-bottom: 20.24px;
+}
+.info h2 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 60px;
+    color: #222222;
+}
+.info h4 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #555555;
+    /* width: 516px; */
+    padding-bottom: 47px;
+}
+
+.btns {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+.button2 {
+    background: none;
+    border: none;
+    background-color: #402F2C;
+    color: #FFFFFF;
+    padding: 13px 25px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    cursor: pointer;
+    border: 1px solid #685A5275;
+
+}
+.button2:hover {
+    color: #402F2C;
+    background-color: #FFFFFF;
+}
+
+.button1 {
+    color: #402F2C;
+    border: 1px solid #685A5275;
+    background-color: #FFFFFF;
+    background: none;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    padding: 13px 25px;
+    cursor: pointer;
+}
+.button1:hover {
+    background-color: #402F2C;
+    color: #FFFFFF;
+}
+
+.choice {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+.choice h3 {
+    color: #222222;
+    font-size: 30px;
+    line-height: 32px;
+    font-weight: 500;
+}
+
+.pdn {
+    padding: 20.24px 32px;
+}

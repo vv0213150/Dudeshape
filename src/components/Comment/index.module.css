@@ -1,0 +1,41 @@
+.main {
+    display: flex;
+    gap: 54px;
+    font-family: "Roboto", serif;
+    padding-bottom: 130px;
+}
+.main div h1 {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #222222;
+    padding-bottom: 10px;
+}
+.main div p {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 32px;
+    color: #555555;
+    width: 608px;
+    padding-bottom: 76px;
+}
+.main div p span {
+    color: #6FB587;
+    font-size: 16px;
+}
+.main div h2 {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #222222;
+    padding-bottom: 10px;
+}
+
+.icons {
+    color: #FFC046;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    padding-bottom: 43px;
+}
