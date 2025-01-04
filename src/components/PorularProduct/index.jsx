@@ -6,7 +6,7 @@ import cls from './index.module.css'
 const PopularProduct = (props) => {
   return (
     <div className={cls.info}>
-        <img width={"100%"} src={props.images} />
+        <img width={"100%"} src={props.images} alt={props.header} />
         <div className={cls.pdn}>
             <h2>{props.titleProduct}</h2>
             <h4>{props.description}</h4>

@@ -18,6 +18,7 @@ import Footer from './components/layouts/Footer/infex'
 
 const Data = [
   {
+    header: 'product picture',
     images: pumpBottle,
     titleProduct: 'Cosmetic products',
     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
@@ -26,6 +27,7 @@ const Data = [
     price: '$120'
   },
   {
+    header: 'product picture',
     images: jar,
     titleProduct: 'Cosmetic products',
     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
